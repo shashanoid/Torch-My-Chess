@@ -13,3 +13,5 @@ pip install -r requirements.txt
 python3 play.py
 ```
 Enjoy !
+
+Credit -- George Hotz
